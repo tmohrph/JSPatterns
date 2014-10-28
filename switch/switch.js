@@ -11,9 +11,9 @@
 **/
 
 (function switchDemo() {
-    var inspect_me = 1,
+    var inspectMe = 1,
         result;
-    switch (inspect_me) {
+    switch (inspectMe) {
     case 0:
         result = "zero";
         break;
